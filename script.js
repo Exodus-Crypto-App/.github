@@ -1,1 +1,0 @@
-console.log("Exodus Crypto App is active!");
